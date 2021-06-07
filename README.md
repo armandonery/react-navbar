@@ -1,3 +1,3 @@
-# Reac JS Navbar
+# React JS Navbar
 
 Navabar sencilla creada con React Router y CSS.
